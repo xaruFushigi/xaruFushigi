@@ -5,7 +5,8 @@ I am System Engineer and passionate about Web Development
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokhodir-ziedullaev-90b05b1b8/) https://www.linkedin.com/in/bokhodir-ziedullaev-90b05b1b8/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokhodir-ziedullaev-90b05b1b8/){:target="_blank"}
+https://www.linkedin.com/in/bokhodir-ziedullaev-90b05b1b8/
 
 
 # 💻 Tech Stack:
